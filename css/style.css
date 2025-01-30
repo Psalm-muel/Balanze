@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Balanze - Welcome</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <div class="welcome-content">
+            <h1>Welcome to Balanze</h1>
+            <p>Your personal fintech assistant to manage and track your finances effortlessly</p>
+            <button id="start-btn">Get Started</button>
+        </div>
+    </header>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
